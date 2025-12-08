@@ -1,4 +1,4 @@
 # N0SH1R0X
 
-![zero2](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGo3bmQzMmt4aHR6amNwYWxqdGQ5dDM0bjRxc3MycWs5ODg0OHdvdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10YWqUivkQPeeJWD3u/giphy.gif)
+![zero](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd5YnZvNDFjbzh1a3Jzc29oanBiaTduY2p2aXU0aGVtdjhydzQ1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jh06R2kbGVmneSkf4d/giphy.gif)
 
